@@ -9,7 +9,7 @@
 title: 罗振龙的博客
 brief-intro: Android and Python Coder
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://643435675.github.io" # the base hostname & protocol for your site
+url: "https://xianyudian.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
@@ -39,7 +39,7 @@ email: 1164667129@QQ.com
 #google_analytics_id: UA-72449510-4 # google 分析追踪id
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
 
 #kramdown:
 #  input: GFM
